@@ -710,4 +710,6 @@ header.site-header.site-header .logo {
   .changes-disclaimer {
     display: block;
     padding: 25px;
-    overflow-x: auto !important; } }
+    overflow-x: auto !important; }
+  .swagger-section .sticky-nav [data-navigator] #resources_nav {
+    padding-bottom: 40px; } }
